@@ -1,0 +1,13 @@
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <div class="station">
+        <h2>Station 2</h2>
+        <p>You are an F2 in Medicine. Miss Sarah Watson, 79, with acute pyelonephritis. eGFR is 40. Allergy to Clarithromycin.</p>
+        <button onclick="nextStation()">Next</button>
+    </div>
+</body>
+</html>
